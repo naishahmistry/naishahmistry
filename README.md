@@ -1,11 +1,9 @@
-### About Me
-____
+# About Me
 📚 Third-year Data Science Student at Northeastern University <br/> 
 💻 Interested in Data Science, Machine Learning, Product Management, and Financial Technology <br/> 
 📫 Feel free to reach out at mistry.na@northeasatern.edu or on [LinkedIn](www.linkedin.com/in/naisha-mistry)! <br/>
 
-### Technical Skills
-___
+# Technical Skills
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
