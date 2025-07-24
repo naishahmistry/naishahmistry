@@ -27,9 +27,9 @@ I love tackling real-world problems by building sustainable and data-oriented di
 <br/>
   [Investigating Income-Restricted Housing Policies in Boston](https://github.com/naishahmistry/investigating-boston-housing-policies/blob/main)  <br/>
   
-  ### Software Development  <br/>
+  ### Web/App Development  <br/>
   [TAMID Tech Consulting Website](https://github.com/NuTamid/tamid-tech-site)  <br/>
-  [FitGo](https://github.com/naishahmistry/FitGo)  <br/>
+  [FitGo - Fitness & Wellness Data Management App](https://github.com/naishahmistry/FitGo)  <br/>
 
 ### NLP  <br/>
   [Taylor Swift Lyrical Analysis](https://github.com/naishahmistry/taylor-swift-lyrical-analysis/tree/main) <br/>
