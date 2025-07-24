@@ -26,16 +26,24 @@ I love tackling real-world problems by building sustainable and data-oriented di
 [Development of Surface-Enhanced Raman Spectroscopy (SERS) Based Nanoprobes and Machine Learning Models for Predicting Droplet pH](https://github.com/user-attachments/files/21416172/Development.of.Surface-Enhanced.Raman.Spectroscopy.SERS.Based.Nanoprobes.and.Machine.Learning.Models.for.Predicting.Droplet.pH.pdf) 
 <br/>
   [Investigating Income-Restricted Housing Policies in Boston](https://github.com/naishahmistry/investigating-boston-housing-policies/blob/main)  <br/>
-  
-  ### Web/App Development  <br/>
-  [TAMID Tech Consulting Website](https://github.com/NuTamid/tamid-tech-site)  <br/>
-  [FitGo - Fitness & Wellness Data Management App](https://github.com/naishahmistry/FitGo)  <br/>
 
 ### NLP  <br/>
   [Taylor Swift Lyrical Analysis](https://github.com/naishahmistry/taylor-swift-lyrical-analysis/tree/main) <br/>
 
   ### Data Visualization  <br/>
   [Analysis of Academic, Demographic, and Socioeconomic Factors on Student Dropout & Success Rates](https://github.com/naishahmistry/student-dropout-factors-analysis) <br/>
+
+  ### Web/App Development  <br/>
+  [TAMID Tech Consulting Website](https://github.com/NuTamid/tamid-tech-site)  <br/>
+  [FitGo - Fitness & Wellness Data Management App](https://github.com/naishahmistry/FitGo)  <br/>
+
+  ### Product Management (Northeastern Electric Racing)
+  [FinishLine Recruitment Dashboard](https://github.com/orgs/Northeastern-Electric-Racing/projects/12?pane=issue&itemId=70545930&issue=Northeastern-Electric-Racing%7CFinishLine%7C2013)<br/>   [FinishLine Onboarding System](https://github.com/Northeastern-Electric-Racing/FinishLine/issues/2015) <br/>
+  [FinishLine Finance Redesign](https://github.com/Northeastern-Electric-Racing/FinishLine/issues/2733) <br/>
+  [FinishLine Guest Mode](https://github.com/Northeastern-Electric-Racing/FinishLine/issues/3506) <br/>
+  [FinishLine Calendar Improvements](https://github.com/Northeastern-Electric-Racing/FinishLine/issues/3400) <br/>
+
+  
 <!--
 **naishahmistry/naishahmistry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
