@@ -1,7 +1,9 @@
-# About Me
+# Hi, I'm Naisha! 
 📚 Third-year Data Science Student at Northeastern University <br/> 
 💻 Interested in Data Science, Machine Learning, Product Management, and Financial Technology <br/> 
 📫 Feel free to reach out at mistry.na@northeasatern.edu or on [LinkedIn](www.linkedin.com/in/naisha-mistry)! <br/>
+
+I love tackling real-world problems by building sustainable and data-oriented digital products. I’m big advocate for continuous growth and love pursuing interdisciplinary projects, from building compliance AI tools at Fidelity Labs to combining ML and nanotechnology for public health at the Virginia Tech. I’m currently looking for a Summer 2026 internship in Data Science or Product Management where I can contribute to new projects in a collaborative and fast-paced environment! 
 
 # Technical Skills
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -19,7 +21,20 @@
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
+  # Projects
+  **Machine Learning** <br/>
+  Development of Surface-Enhanced Raman Spectroscopy (SERS) Based Nanoprobes and Machine Learning Models for Predicting Droplet pH  <br/>
+  Investigating Income-Restricted Housing Policies in Boston  <br/>
   
+  **Software Development**  <br/>
+  TAMID Tech Consulting Website  <br/>
+  FitGo  <br/>
+
+  **NLP**  <br/>
+  Taylor Swift Lyrical Analysis  <br/>
+
+  **Data Visualization**  <br/>
+  Analysis of Socioeconomic Factors on Student Dropout & Success <br/>
 <!--
 **naishahmistry/naishahmistry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
