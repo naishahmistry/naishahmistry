@@ -3,7 +3,7 @@
 💻 Interested in Data Science, Machine Learning, Product Management, and Financial Technology <br/> 
 📫 Feel free to reach out at mistry.na@northeasatern.edu or on [LinkedIn](www.linkedin.com/in/naisha-mistry)! <br/>
 
-I love tackling real-world problems by building sustainable and data-oriented digital products. I’m big advocate for continuous growth and love pursuing interdisciplinary projects, from building compliance AI tools at Fidelity Labs to combining ML and nanotechnology for public health at the Virginia Tech. I’m currently looking for a Summer 2026 internship in Data Science or Product Management where I can contribute to new projects in a collaborative and fast-paced environment! 
+I love tackling real-world problems by building sustainable and data-oriented digital products. I’m big advocate for continuous growth and love pursuing interdisciplinary projects, from working on compliance AI tools at Fidelity Labs to combining ML and nanotechnology for public health at the Virginia Tech. I’m currently looking for a Summer 2026 internship in Data Science or Product Management where I can contribute to new projects in a collaborative and fast-paced environment! 
 
 # Technical Skills
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
