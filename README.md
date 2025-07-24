@@ -22,19 +22,19 @@ I love tackling real-world problems by building sustainable and data-oriented di
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
   # Projects
-  **Machine Learning** <br/>
+  ### Machine Learning <br/>
 [Development of Surface-Enhanced Raman Spectroscopy (SERS) Based Nanoprobes and Machine Learning Models for Predicting Droplet pH](https://github.com/user-attachments/files/21416172/Development.of.Surface-Enhanced.Raman.Spectroscopy.SERS.Based.Nanoprobes.and.Machine.Learning.Models.for.Predicting.Droplet.pH.pdf) 
 <br/>
   [Investigating Income-Restricted Housing Policies in Boston](https://github.com/naishahmistry/investigating-boston-housing-policies/blob/main)  <br/>
   
-  **Software Development**  <br/>
+  ### Software Development  <br/>
   [TAMID Tech Consulting Website](https://github.com/NuTamid/tamid-tech-site)  <br/>
   [FitGo](https://github.com/naishahmistry/FitGo)  <br/>
 
-  **NLP**  <br/>
+### NLP  <br/>
   [Taylor Swift Lyrical Analysis](https://github.com/naishahmistry/taylor-swift-lyrical-analysis/tree/main) <br/>
 
-  **Data Visualization**  <br/>
+  ### Data Visualization  <br/>
   [Analysis of Academic, Demographic, and Socioeconomic Factors on Student Dropout & Success Rates](https://github.com/naishahmistry/student-dropout-factors-analysis) <br/>
 <!--
 **naishahmistry/naishahmistry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
