@@ -37,11 +37,12 @@ I love tackling real-world problems by building sustainable and data-oriented di
   [TAMID Tech Consulting Website](https://github.com/NuTamid/tamid-tech-site)  <br/>
   [FitGo - Fitness & Wellness Data Management App](https://github.com/naishahmistry/FitGo)  <br/>
 
-  ### Product Management (Northeastern Electric Racing)
-  [FinishLine Recruitment Dashboard](https://github.com/orgs/Northeastern-Electric-Racing/projects/12?pane=issue&itemId=70545930&issue=Northeastern-Electric-Racing%7CFinishLine%7C2013)<br/>   [FinishLine Onboarding System](https://github.com/Northeastern-Electric-Racing/FinishLine/issues/2015) <br/>
-  [FinishLine Finance Redesign](https://github.com/Northeastern-Electric-Racing/FinishLine/issues/2733) <br/>
-  [FinishLine Guest Mode](https://github.com/Northeastern-Electric-Racing/FinishLine/issues/3506) <br/>
-  [FinishLine Calendar Improvements](https://github.com/Northeastern-Electric-Racing/FinishLine/issues/3400) <br/>
+  ### Product Management & Design 
+  [Northeastern Electric Racing - FinishLine Recruitment Dashboard](https://github.com/orgs/Northeastern-Electric-Racing/projects/12?pane=issue&itemId=70545930&issue=Northeastern-Electric-Racing%7CFinishLine%7C2013)<br/>   [Northeastern Electric Racing - FinishLine Onboarding System](https://github.com/Northeastern-Electric-Racing/FinishLine/issues/2015) <br/>
+  [Northeastern Electric Racing - FinishLine Finance Redesign](https://github.com/Northeastern-Electric-Racing/FinishLine/issues/2733) <br/>
+  [Northeastern Electric Racing - FinishLine Guest Mode](https://github.com/Northeastern-Electric-Racing/FinishLine/issues/3506) <br/>
+  [Northeastern Electric Racing - FinishLine Calendar Improvements](https://github.com/Northeastern-Electric-Racing/FinishLine/issues/3400) <br/>
+  [Nestly - Pregnancy & Family Planning App](https://www.figma.com/proto/tqQhMuB7ulhFGyE52ABAeG/Final-Nestly-Prototype?node-id=0-1&t=4cIeCojef5dquBQe-1)
 
   
 <!--
