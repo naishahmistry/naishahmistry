@@ -23,18 +23,19 @@ I love tackling real-world problems by building sustainable and data-oriented di
 
   # Projects
   **Machine Learning** <br/>
-  Development of Surface-Enhanced Raman Spectroscopy (SERS) Based Nanoprobes and Machine Learning Models for Predicting Droplet pH  <br/>
-  Investigating Income-Restricted Housing Policies in Boston  <br/>
+[Development of Surface-Enhanced Raman Spectroscopy (SERS) Based Nanoprobes and Machine Learning Models for Predicting Droplet pH](https://github.com/user-attachments/files/21416172/Development.of.Surface-Enhanced.Raman.Spectroscopy.SERS.Based.Nanoprobes.and.Machine.Learning.Models.for.Predicting.Droplet.pH.pdf) 
+<br/>
+  [Investigating Income-Restricted Housing Policies in Boston](https://github.com/naishahmistry/investigating-boston-housing-policies/blob/main/README.md)  <br/>
   
   **Software Development**  <br/>
-  TAMID Tech Consulting Website  <br/>
-  FitGo  <br/>
+  [TAMID Tech Consulting Website](https://github.com/NuTamid/tamid-tech-site)  <br/>
+  [FitGo](https://github.com/naishahmistry/FitGo)  <br/>
 
   **NLP**  <br/>
-  Taylor Swift Lyrical Analysis  <br/>
+  [Taylor Swift Lyrical Analysis](https://github.com/naishahmistry/taylor-swift-lyrical-analysis/tree/main) <br/>
 
   **Data Visualization**  <br/>
-  Analysis of Socioeconomic Factors on Student Dropout & Success <br/>
+  [Analysis of Academic, Demographic, and Socioeconomic Factors on Student Dropout & Success Rates](https://github.com/naishahmistry/student-dropout-factors-analysis) <br/>
 <!--
 **naishahmistry/naishahmistry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
