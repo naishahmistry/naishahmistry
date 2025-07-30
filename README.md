@@ -42,6 +42,7 @@ I love tackling real-world problems by building sustainable and data-oriented di
   [Northeastern Electric Racing - FinishLine Finance Redesign](https://github.com/Northeastern-Electric-Racing/FinishLine/issues/2733) <br/>
   [Northeastern Electric Racing - FinishLine Guest Mode](https://github.com/Northeastern-Electric-Racing/FinishLine/issues/3506) <br/>
   [Northeastern Electric Racing - FinishLine Calendar Improvements](https://github.com/Northeastern-Electric-Racing/FinishLine/issues/3400) <br/>
+  [Northeastern Electric Racing - FinishLine Competition Rules Dashboard](https://github.com/Northeastern-Electric-Racing/FinishLine/issues/3509)<br/>
   [Nestly - Pregnancy & Family Planning App](https://github.com/user-attachments/files/21417817/Nestly.pdf)
 
   
