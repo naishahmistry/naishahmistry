@@ -27,7 +27,8 @@ I love tackling real-world problems by building sustainable and data-oriented di
 <br/>
   [Investigating Income-Restricted Housing Policies in Boston](https://github.com/naishahmistry/investigating-boston-housing-policies/blob/main)  <br/>
 
-### NLP  <br/>
+### LLMs & NLP  <br/>
+[Pennywise - A Financial Literacy Large Language Model](https://github.com/RealAndrewRen/Pennywise)<br/>
   [Taylor Swift Lyrical Analysis](https://github.com/naishahmistry/taylor-swift-lyrical-analysis/tree/main) <br/>
 
   ### Data Visualization  <br/>
