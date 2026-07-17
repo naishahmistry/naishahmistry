@@ -27,7 +27,7 @@ I love tackling real-world problems by building sustainable and data-oriented di
 <br/>
 [Poker Assistant - Learning to Play Poker Using Q-Learning](https://github.com/chebroluv8/PokerPrediction-CS4100)
 <br/>
-[Menstrual Cycle Phase Prediction & Symptom Forecasting - Bayesian Machine Learning & Neural Networks](https://github.com/naishahmistry/menstrualcycleprediction)
+[Menstrual Cycle Phase Prediction & Symptom Forecasting (Bayesian Machine Learning & Neural Networks)](https://github.com/naishahmistry/menstrualcycleprediction)
 <br/>
   [Investigating Income-Restricted Housing Policies in Boston](https://github.com/naishahmistry/investigating-boston-housing-policies/blob/main)  <br/>
 
@@ -48,6 +48,8 @@ I love tackling real-world problems by building sustainable and data-oriented di
   [Northeastern Electric Racing - FinishLine Guest Mode](https://github.com/Northeastern-Electric-Racing/FinishLine/issues/3506) <br/>
   [Northeastern Electric Racing - FinishLine Calendar Improvements](https://github.com/Northeastern-Electric-Racing/FinishLine/issues/3400) <br/>
   [Northeastern Electric Racing - FinishLine Competition Rules Dashboard](https://github.com/Northeastern-Electric-Racing/FinishLine/issues/3509)<br/>
+  [Northeastern Electric Racing - FinishLine Executive Summaries](https://github.com/Northeastern-Electric-Racing/FinishLine/issues/4144)<br/>
+  [Northeastern Electric Racing - Bay Dashboard](https://github.com/Northeastern-Electric-Racing/FinishLine/issues/4147)<br/>
   [Nestly - Pregnancy & Family Planning App](https://github.com/user-attachments/files/21417817/Nestly.pdf)
 
   
